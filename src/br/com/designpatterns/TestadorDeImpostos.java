@@ -1,6 +1,6 @@
 package br.com.designpatterns;
 
-public class TestadorDeimpostos {
+public class TestadorDeImpostos {
 
 	public static void main(String[] args) {
 		Imposto icms =  new ICMS();
